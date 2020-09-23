@@ -1,0 +1,100 @@
+header {
+	background-color: white;
+	text-align: center;		
+		}
+		
+		h2 {
+		text-align: center;				
+			}
+		
+	hr {
+	width: 50px;
+	background-color: orange;		
+		}
+
+.about {
+		background-color: #2e54ff;
+		padding: 20px; 
+		margin-top: 5px;
+		font-style: bold;
+			}
+
+
+h4 {
+	text-align: center;		
+		
+		}
+
+.managers {
+		text-align: center;
+	background-color: white;
+		margin-top: 5px;
+		font-style: bold;
+				}
+   
+  .kid {
+  	text-align: center;
+  	background-color: #2e54ff;
+  	padding: 20px;				
+  		}
+
+
+     a {
+     color: orange;
+     overflow: hidden;				
+     	
+     	}
+
+
+
+     .young {
+     		text-align: center;
+     			
+     		
+     		}
+
+.lock {
+	background-image: url(d.jpeg);
+	background-repeat: no repeat;
+	background-size: cover;
+	min-height: 200px;	
+	border-top: 15px;
+			}
+
+
+
+
+.luck {
+		background: brown;		
+		padding: 20px;
+			}
+
+
+ .btn {
+ 	 color: white;
+   float: right;
+ 	 border: none;	
+ 	 padding: 10px;
+ 	 background-color: orange;
+ 			}
+
+
+  .sub {	
+  	min-height: 80px;		
+  	margin-buttom: 500%;
+  		}
+
+
+  input {
+  	 border: none;		
+  	 border-bottom: 2px solid #ffa02e;	
+  	 padding: 10px;		
+  			}
+
+
+
+  footer {
+  	text-align: center;		
+  	background-color: #bf5dff;	
+  	padding: 12px;
+  			}
